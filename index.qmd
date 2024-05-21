@@ -1,0 +1,37 @@
+---
+title: Penyakit Graves pada seorang perempuan dengan Sistemik Lupus Eritematosus
+authors:
+  - name: dr. Kadek Adit Wiryadana
+    affiliation: Universitas Udayana
+    roles: writing
+    corresponding: true
+  - name: dr. I Made Siswadi Semadi, M.Biomed, SpPD, K-EMD
+    affiliation: Universitas Udayana
+    roles: writing
+    corresponding: false
+  - name: dr. Pande Ketut Kurniari, SpPD, K-R
+    affiliation: Universitas Udayana
+    roles: writing
+    corresponding: false
+bibliography: references.bib
+csl: wiryadana.csl
+---
+
+```{r, echo=F}
+library("tidyverse")
+library("googlesheets4")
+```
+
+## Abstrak
+
+wiryadana
+
+## Pendahuluan
+
+## Laporan Kasus
+
+## Diskusi
+
+## Ringkasan
+
+## Daftar Pustaka
